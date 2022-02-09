@@ -9,4 +9,5 @@ public class Main {
 
         System.out.println("Начислен бонус " + bonus);
         System.out.println("Итоговый баланс " + total);
-    }}
+    }
+}
